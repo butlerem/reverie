@@ -2,95 +2,65 @@ import images from './images';
 
 const wines = [
   {
-    title: 'Chapel Hill Shiraz',
-    price: '$55',
-    tags: 'Australia | Bottle | Red Wine',
+    title: 'French Toast Soufflé',
+    price: '$24',
+    tags: 'A delightful soufflé-style French toast with whipped cream, fresh berries, and a dusting of powdered sugar. Served with Vermont maple syrup.',
   },
   {
-    title: 'Catena Malbec',
-    price: '$60',
-    tags: 'Argentina | Bottle | Red Wine',
+    title: 'Avocado Toast Breakfast Board',
+    price: '$26',
+    tags: '6 Miniature brioche avocado toasts topped with cilantro, chipotle aioli, and seasonal toppings.',
   },
   {
-    title: 'La Vieille Rose',
-    price: '$70',
-    tags: 'France | 750 ml | Rosé Wine',
-  },
-  {
-    title: 'Sancerre Blanc',
-    price: '$76',
-    tags: 'France | Bottle | White Wine',
-  },
-  {
-    title: 'Napa Valley Cabernet Sauvignon',
-    price: '$85',
-    tags: 'USA | Bottle | Red Wine',
-  },
-  {
-    title: 'Champagne Brut',
-    price: '$98',
-    tags: 'France | Bottle | Sparkling Wine',
-  },
-  {
-    title: 'Château Margaux',
-    price: '$240',
-    tags: 'France | Bottle | Bordeaux Wine',
+    title: 'Sunrise Citrus Bowl',
+    price: '$21',
+    tags: 'Clementine and berry puree blended with banana and topped with granola, coconut flakes, fresh berries, and a drizzle of honey.',
   },
 ];
 
 const cocktails = [
   {
-    title: 'Mimosa Royale',
-    price: '$18',
-    tags: 'Champagne | Fresh Orange Juice | Orange Twist',
-  },
-  {
-    title: 'Cosmopolitan',
-    price: '$16',
-    tags: 'Vodka | Triple Sec | Cranberry Juice | Lime Juice',
+    title: 'Hibiscus Mimosa',
+    price: '$13',
+    tags: 'A classic mimosa made with Champagne, freshly squeezed orange juice, and fresh hibiscus syrup.',
   },
   {
     title: 'French Martini',
-    price: '$22',
-    tags: 'Vodka | Chambord | Pineapple Juice | Raspberry Garnish',
-  },
-  {
-    title: 'Lychee Martini',
     price: '$19',
-    tags: 'Vodka | Lychee Liqueur | Lychee Juice | Lychee Garnish',
+    tags: 'Vodka infused with Chambord liqueur, pineapple juice, and a raspberry garnish for a touch of French elegance.',
   },
   {
-    title: 'Strawberry Fizz',
+    title: 'Elderflower Martini',
     price: '$17',
-    tags: 'Gin | Fresh Strawberries | Elderflower Liqueur | Soda',
+    tags: 'Vodka combined with elderflower liqueur and lychee juice, garnished with a luscious lychee.',
   },
   {
-    title: 'Pink Lady',
-    price: '$20',
-    tags: 'Gin | Applejack | Grenadine | Egg White | Cherry Garnish',
+    title: 'Sparkling Strawberry Fizz',
+    price: '$14',
+    tags: 'A refreshing concoction of gin, fresh strawberries, elderflower liqueur, and soda, creating a sparkling strawberry sensation.',
   },
 ];
 
 const awards = [
   {
     imgUrl: images.award02,
-    title: 'Bib Gourmond',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    title: 'Culinary Distinction Award',
+    subtitle: 'Recognized for our dedication to culinary excellence and outstanding value.',
   },
   {
     imgUrl: images.award01,
-    title: 'Rising Star',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    title: 'Emerging Talent Accolade',
+    subtitle: 'Acknowledged for our innovative approach to dining and the promise of a bright culinary future.',
   },
   {
     imgUrl: images.award05,
-    title: 'AA Hospitality',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    title: 'Hospitality Excellence Trophy',
+    subtitle: 'Honored for our commitment to exceptional service and guest satisfaction.',
   },
   {
     imgUrl: images.award03,
-    title: 'Outstanding Chef',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    title: 'Master Chef Accolade',
+    subtitle: 'Celebrated for our culinary expertise and the artistry of our head chef.',
   },
 ];
 
