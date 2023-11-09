@@ -4,55 +4,80 @@ const wines = [
   {
     title: 'Chapel Hill Shiraz',
     price: '$56',
-    tags: 'AU | Bottle',
+    tags: 'Australia | Bottle | Red Wine',
   },
   {
-    title: 'Catena Malbee',
+    title: 'Catena Malbec',
     price: '$59',
-    tags: 'AU | Bottle',
+    tags: 'Argentina | Bottle | Red Wine',
   },
   {
-    title: 'La Vieillw Rose',
+    title: 'La Vieille Rose',
     price: '$44',
-    tags: 'FR | 750 ml',
+    tags: 'France | 750 ml | Rosé Wine',
   },
   {
-    title: 'Rhino Pale Ale',
-    price: '$31',
-    tags: 'CA | 750 ml',
+    title: 'Château Margaux',
+    price: '$240',
+    tags: 'France | Bottle | Bordeaux Wine',
   },
   {
-    title: 'Irish Guinness',
-    price: '$26',
-    tags: 'IE | 750 ml',
+    title: 'Sancerre Blanc',
+    price: '$48',
+    tags: 'France | Bottle | White Wine',
+  },
+  {
+    title: 'Napa Valley Cabernet Sauvignon',
+    price: '$65',
+    tags: 'USA | Bottle | Red Wine',
+  },
+  {
+    title: 'Champagne Brut',
+    price: '$75',
+    tags: 'France | Bottle | Sparkling Wine',
   },
 ];
 
 const cocktails = [
   {
-    title: 'Aperol Sprtiz',
+    title: 'Aperol Spritz',
     price: '$20',
-    tags: 'Aperol | Villa Marchesi prosecco | soda | 30 ml',
+    tags: 'Aperol | Villa Marchesi Prosecco | Soda | 30 ml',
   },
   {
-    title: "Dark 'N' Stormy",
+    title: 'Mimosa Royale',
+    price: '$18',
+    tags: 'Champagne | Fresh Orange Juice | Orange Twist',
+  },
+  {
+    title: 'Cosmopolitan',
     price: '$16',
-    tags: 'Dark rum | Ginger beer | Slice of lime',
+    tags: 'Vodka | Triple Sec | Cranberry Juice | Lime Juice',
   },
   {
-    title: 'Daiquiri',
-    price: '$10',
-    tags: 'Rum | Citrus juice | Sugar',
+    title: 'French Martini',
+    price: '$22',
+    tags: 'Vodka | Chambord | Pineapple Juice | Raspberry Garnish',
   },
   {
-    title: 'Old Fashioned',
-    price: '$31',
-    tags: 'Bourbon | Brown sugar | Angostura Bitters',
+    title: 'Lavender Lemonade',
+    price: '$14',
+    tags: 'Vodka | Lavender Syrup | Lemon Juice | Fresh Lavender',
   },
   {
-    title: 'Negroni',
-    price: '$26',
-    tags: 'Gin | Sweet Vermouth | Campari | Orange garnish',
+    title: 'Lychee Martini',
+    price: '$19',
+    tags: 'Vodka | Lychee Liqueur | Lychee Juice | Lychee Garnish',
+  },
+  {
+    title: 'Strawberry Fizz',
+    price: '$17',
+    tags: 'Gin | Fresh Strawberries | Elderflower Liqueur | Soda',
+  },
+  {
+    title: 'Pink Lady',
+    price: '$20',
+    tags: 'Gin | Applejack | Grenadine | Egg White | Cherry Garnish',
   },
 ];
 
