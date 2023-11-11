@@ -2,6 +2,10 @@
 
 This repository showcases a restaurant website that I've developed to demonstrate my skills as a web developer, with a focus on React and UI/UX design. The project aims to provide an elegant and engaging online presence for a fictional restaurant called "Reverie."
 
+![Screenshot from 2023-11-11 03-03-14](https://github.com/butlerem/reverie-restaurant/assets/130527417/b4a6b569-22ef-428d-828f-4b7458582215)
+![Screenshot from 2023-11-11 03-05-38](https://github.com/butlerem/reverie-restaurant/assets/130527417/ccb7974a-1a2e-418c-8e4e-d3e6eae70b0d)
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -27,35 +31,34 @@ Welcome to the Reverie restaurant website project! This project serves as a test
 - **Contact:** Information about the restaurant's location, opening hours, and a contact form.
 - **Newsletter:** A subscription feature for users to stay updated with the latest news and offerings.
 
+- ![Screenshot from 2023-11-11 03-04-37](https://github.com/butlerem/reverie-restaurant/assets/130527417/b81bd0c3-5ab2-4159-8478-9377ec9b5657)
+![Screenshot from 2023-11-11 03-04-55](https://github.com/butlerem/reverie-restaurant/assets/130527417/199cb60b-4c1a-4fac-ae5d-896544c5c08f)
+![Screenshot from 2023-11-11 03-05-09](https://github.com/butlerem/reverie-restaurant/assets/130527417/960436ea-c823-4684-90e9-5c35b40fda0c)
+
+
 ## Installation
 
 1. Clone the repository to your local machine:
 
-   ```bash
-   git clone https://github.com/your-username/restaurant-website.git
+   ```git clone https://github.com/your-username/restaurant-website.git```
 
 2. Navigate to the project directory:
 
-   ```bash
-    cd restaurant-website
-
+   ```cd restaurant-website```
+   
  
 3. Install the required dependencies:
 
-   ```bash
-    npm install
+   ```npm install```
 
 
 ## Usage
+
 Start the development server:
 
-   ```bash
-    npm start
+```npm start```
 
-    
-Open your browser and go to http://localhost:3000 to view the restaurant website.
-
-## Technologies Used
+=## Usage
 React
 HTML5
 CSS3
