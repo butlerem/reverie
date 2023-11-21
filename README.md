@@ -1,6 +1,6 @@
 # Restaurant Website Project
 
-This repository showcases a restaurant website with a focus on React and UI/UX design. The project aims to provide an elegant and engaging online presence for a fictional restaurant called "Reverie."
+This repository showcases a restaurant website with a focus on React and UI/UX design. The project aims to provide an elegant and engaging online presence for a restaurant called Reverie.
 
 The website ensures optimal viewing and interaction experience across a wide range of devices, from desktops to  mobile phones.
 
