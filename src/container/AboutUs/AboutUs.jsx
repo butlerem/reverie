@@ -17,7 +17,7 @@ const AboutUs = () => (
       <div className="app__aboutus-content_history">
         <h1 className="headtext__cormorant">Our History</h1>
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
-        <p className="p__opensans text-center">In 2023, Reverie came to life in Ottawa as an upscale breakfast haven. This picturesque establishment blends elegance with the joy of comfort food. Reverie has become a place where breakfast transcends the ordinary. Our history is a testament to her vision, with each day adding to the legacy of this remarkable restaurant, offering a delightful dining experience for our guests. Our focus has always been on creating a positive and bright space where guests feel welcomed and inspired.</p>
+        <p className="p__opensans text-center">In 2023, Reverie came to life in Ottawa as an upscale breakfast haven. This picturesque establishment blends elegance with the joy of comfort food. Reverie has become a place where breakfast transcends the ordinary, with each day adding to the legacy of this remarkable restaurant, offering a delightful dining experience for our guests. Our focus has always been on creating a space where guests feel welcomed and inspired.</p>
         <button type="button" className="custom__button">Know More</button>
       </div>
     </div>
