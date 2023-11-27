@@ -7,6 +7,8 @@ The website ensures optimal viewing and interaction experience across a wide ran
 
 ![Screenshot from 2023-11-11 03-03-14](https://github.com/butlerem/reverie-restaurant/assets/130527417/b4a6b569-22ef-428d-828f-4b7458582215)
 
+Deployed Application https://reverie-restaurant-9b1eee1b9825.herokuapp.com/
+
 ## Table of Contents
 
 - [Introduction](#introduction)
