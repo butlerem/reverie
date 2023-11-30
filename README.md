@@ -1,8 +1,6 @@
 # Restaurant Website Project
 
-This repository showcases a restaurant website with a focus on React and UI/UX design. The project aims to provide an elegant and engaging online presence for a restaurant called Reverie.
-
-The website ensures optimal viewing and interaction experience across a wide range of devices, from desktops to  mobile phones.
+This repository showcases a restaurant website with a focus on React and UI design. The project aims to provide an elegant and engaging online presence for a restaurant called Reverie. The website ensures optimal viewing and interaction experience across a wide range of devices, from desktops to  mobile phones.
 
 
 ![Screenshot from 2023-11-11 03-03-14](https://github.com/butlerem/reverie-restaurant/assets/130527417/b4a6b569-22ef-428d-828f-4b7458582215)
